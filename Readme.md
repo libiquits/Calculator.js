@@ -1,1 +1,1 @@
-# Github
+# Js simple project
